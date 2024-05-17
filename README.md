@@ -57,7 +57,7 @@ You agree to use the App only for lawful purposes. You are responsible for ensur
 
 ### 5. Intellectual Property
 
-The App and its original content, features, and functionality are and will remain the exclusive property of [Your Company Name] and its licensors.
+The App and its original content, features, and functionality are and will remain the exclusive of dastech and its licensors.
 
 ### 6. Limitation of Liability
 
